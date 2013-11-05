@@ -1,0 +1,200 @@
+#globalNavi {
+	background: url(../images/nav-bg.png) repeat-x top;
+	height: 60px;
+	box-shadow: 0px 1px 3px rgba(0,0,0,0.15);
+	position: fixed;
+	z-index: 10000;
+}
+#globalNavi ul {
+	padding-top: 15px;
+}
+#globalNavi li {
+	float: left;
+}
+#globalNavi li.lm {
+	margin-right: 70px;
+}
+#globalNavi li.rm {
+	margin-left: 75px;
+}
+/*GlobalNavi Hover*/
+#globalNavi {
+}
+.popupNavi {
+	position: relative;
+	background: #FFFFFF;
+}
+.popupNavi .popupNaviChild {
+	display:none;
+	position: absolute;
+	margin-left: -1px;
+	width: 160px;
+	background-color: #FFFFFF;
+	border: 1px solid #ddd5c5;
+	box-shadow: 0 1px 10px rgba(0, 0, 0, 0.15);
+}
+.popupNavi .popupNaviChild img.arrow {
+	position: absolute;
+	display: block;
+	margin-top: -14px;
+}
+#globalNavi .popupNavi .popupNaviChild ul{
+	padding:2px 0;
+}
+#globalNavi .popupNavi .popupNaviChild ul li{
+	float:none;
+	border-bottom:1px solid #eee;
+	margin:0 5px;
+	
+}
+#globalNavi .popupNavi .popupNaviChild ul li a{
+	
+	line-height:36px;
+	margin:2px 0;
+	width:130px;
+	padding-left:20px;
+	float:left;
+	color:#666666;
+	text-decoration:none;
+}
+	
+#globalNavi .popupNavi .popupNaviChild ul li a:hover{
+	background-color:#fdf5f8;
+}
+#globalNavi .popupNavi .popupNaviChild ul li:last-child {
+	border-bottom:none;
+}
+.popupNavi .popupNaviChild h3 {
+	padding-top: 0px;
+	color: #8b7a57;
+	font-size:12px;
+	font-weight:bold;
+}
+.popupNavi .popupNaviChild h3 a,.popupNavi .popupNaviChild h3 a:link,.popupNavi .popupNaviChild h3 a:active {
+	color: #222;
+	text-decoration:none;
+}
+.popupNavi .popupNaviChild h3 a:hover {
+	color: #b6a480;
+}
+.popupNavi .popupNaviChild h3 img{
+	position:relative;
+	top:1px;
+	margin-right:5px;
+}
+.popupNavi .popupNaviChild p.popupText {
+	padding-top:3px;
+	color: #777;
+	font-size:10px;
+	line-height:12px;
+}
+#nav01 img.arrow {
+	left: 31px;
+}
+ img.arrow {
+	left: 51px;
+}
+#con img.arrow {
+	left: 60px;
+}
+
+#top #nav01 img.arrow {
+	left: 31px;
+}
+#top #nav02 img.arrow {
+	left: 163px;
+}
+#top #nav03 img.arrow {
+	left: 298px;
+}
+#top #nav04 img.arrow {
+	left: 475px;
+}
+#top #nav05 img.arrow {
+	left: 646px;
+}
+#top #nav06 img.arrow {
+	left: 777px;
+}
+#top #nav07 img.arrow {
+	left: 920px;
+}
+
+#nav02.popupNaviChild { left:120px;}
+#nav05.popupNaviChild { left:610px;}
+#nav06.popupNaviChild { left:760px;}
+#nav07.popupNaviChild { left:890px;}
+.cm.pop.home {
+position: relative;
+top: -5px;
+}
+
+/* Local header */
+
+#localHeader h1 {
+	font-size: 29px;
+	font-weight: bold;
+	color: #624d25;
+	text-align: center;
+	margin-bottom: 15px;
+}
+#localHeader .localNavi {
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	height: 27px;
+	line-height: 27px;
+	border-bottom: 1px dotted #b4b4b4;
+	padding: 0 0 10px 0;
+	margin: 0 0 3px 0;
+}
+#localHeader .localNavi ul {
+	position: relative;
+	left: 50%;
+	float: left;
+}
+#localHeader .localNavi li {
+	float: left;
+	position: relative;
+	left: -50%;
+}
+#localHeader .localNavi li a {
+	padding: 0 10px 7px 10px;
+}
+#localHeader .localNavi li.current a {
+	background: url(../images/lnavi_border_current.png) bottom center no-repeat;
+}
+#localHeader .localSubNavi {
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	height: 25px;
+	line-height: 25px;
+}
+#localHeader .localSubNavi ul {
+	position: relative;
+	left: 50%;
+	float: left;
+}
+#localHeader .localSubNavi li {
+	float: left;
+	position: relative;
+	left: -50%;
+}
+#localHeader .localSubNavi li a {
+	padding: 0 10px;
+	opacity: 0.5;
+	font-size: 12px;
+	color: #222;
+	font-weight: bold;
+}
+#localHeader .localSubNavi li.current a {
+	opacity: 1;
+}
+/*page*/
+#localHeader {
+	height: 190px;
+	margin: 0 auto;
+	padding: 40px 0;
+	width: 1000px;
+}
