@@ -23,6 +23,7 @@ ul.tabs a {
     display:block;
     height: 30px;
     line-height:30px;
+    width: 88px;
     text-align:center;
     text-decoration:none;
     color:#333;
@@ -65,19 +66,12 @@ ul.tabs li#area-tab-05 a{background: url(../images/tabs/area_tab_05.gif) no-repe
 ul.tabs li#area-tab-06 a{background: url(../images/tabs/area_tab_06.gif) no-repeat; width:71px;}
 ul.tabs li#area-tab-07 a{background: url(../images/tabs/area_tab_07.gif) no-repeat; width:71px;}
 
-ul.tabs li#info-01 a{background: url(../images/tabs/info_tab_01.gif) no-repeat; width:151px;}
-ul.tabs li#info-02 a{background: url(../images/tabs/info_tab_02.gif) no-repeat; width:151px;}
-ul.tabs li#info-03 a{background: url(../images/tabs/info_tab_03.gif) no-repeat; width:93px;}
-ul.tabs li#info-04 a{background: url(../images/tabs/info_tab_04.gif) no-repeat; width:117px;}
-
 ul.tabs li#fpop a:hover, ul.tabs li#fnew a:hover,
 ul.tabs li#mpop a:hover, ul.tabs li#mnew a:hover,
 ul.tabs li#area-tab-00 a:hover, ul.tabs li#area-tab-01 a:hover,
 ul.tabs li#area-tab-02 a:hover, ul.tabs li#area-tab-03 a:hover,
 ul.tabs li#area-tab-04 a:hover, ul.tabs li#area-tab-05 a:hover,
-ul.tabs li#area-tab-06 a:hover, ul.tabs li#area-tab-07 a:hover,
-ul.tabs li#info-01 a:hover, ul.tabs li#info-02 a:hover,
-ul.tabs li#info-03 a:hover, ul.tabs li#info-04 a:hover
+ul.tabs li#area-tab-06 a:hover, ul.tabs li#area-tab-07 a:hover
 {background-position: 0 -31px;}
 
 
@@ -86,9 +80,7 @@ ul.tabs li#fnew a.current, ul.tabs li#mnew a.current,
 ul.tabs li#area-tab-00 a.current, ul.tabs li#area-tab-01 a.current,
 ul.tabs li#area-tab-02 a.current, ul.tabs li#area-tab-03 a.current,
 ul.tabs li#area-tab-04 a.current, ul.tabs li#area-tab-05 a.current,
-ul.tabs li#area-tab-06 a.current, ul.tabs li#area-tab-07 a.current,
-ul.tabs li#info-01 a.current, ul.tabs li#info-02 a.current,
-ul.tabs li#info-03 a.current, ul.tabs li#info-04 a.current
+ul.tabs li#area-tab-06 a.current, ul.tabs li#area-tab-07 a.current
 {background-position: 0 -62px;}
 
 

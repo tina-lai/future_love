@@ -131,26 +131,26 @@ button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-r
 
 
 /* #index_mem -------------------------------- */
-#index_mem ,#index_area, #group_info{
+#index_mem ,#index_area{
 	margin-top: 0px;
 	margin-bottom: 20px;
 	background: url(../images/index_news_bg.gif) repeat-y scroll left top;
 	width: 600px;
 }
-#index_mem .header, #index_area .header, #group_info .header{
+#index_mem .header, #index_area .header{
 	position: relative;
 	width: 670px;
 	height: 39px;
 	background: url(../images/index_news_header.gif) no-repeat scroll left top;
 }
-#index_mem .header h2, #index_area .header h2, #group_info .header h2 {
+#index_mem .header h2, #index_area .header h2 {
 	color:#636363;
 	font-size:14px;
 	line-height:39px;
 	padding-left:15px;
 	letter-spacing:0.1em;
 }
-#index_mem .header h2 img, #index_area .header h2 img, #group_info .header h2 img{
+#index_mem .header h2 img, #index_area .header h2 img{
 	position:relative;
 	top:4px;
 	margin-right:5px;
@@ -245,7 +245,12 @@ button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-r
 #index_album #index_information ul{margin:10px 0 10px 20px;}
 #index_album #index_information ul li{float:left; margin: 10px 15px; line-height:15px;}
 
-
+.font-red{color:red;}
+.font-blue{color:#00b7f3;}
+.font-purple{color:#975aa9;}
+.font-grey{color:#999;}
+a.font-purple{text-decoration:none;color:#975aa9;}
+a:hover.font-purple{text-decoration:underline;}
 
 /* clearfix */
 .clearfix:before, .clearfix:after {
@@ -267,49 +272,5 @@ button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-r
 
 
 /* page */
-h2.heading-pink{ background:url(../images/heading-pink.gif) no-repeat; width:646px; height:35px; color:#975aa9; font-size:14px; padding-left:20px; line-height:37px;}
-h2.heading-pink-66{ background:url(../images/heading-pink.gif) no-repeat; width:646px; height:35px; color:#666; font-size:14px; padding-left:20px; line-height:37px;}
-h2.heading-pink-66 img{position:relative; top:2px;}
-h2.heading-purple{ background:url(../images/heading-purple.gif) no-repeat; width:646px; height:35px; color:#636363; font-size:14px; padding-left:20px; line-height:37px;}
-.heading-dashline{border-bottom:1px dotted #947e52; width:665px; height:2px;  margin-bottom:10px;}
-
-.top-selection{width:640px; padding: 0 0 0 20px;}
-.top-selection .selection-category{color:#ff3f8e; float:left; width:50px; font-size:14px; font-size:bold;margin-bottom:5px; line-height:20px;}
-.top-selection ul li{float:left; margin: 0 3px; line-height:19px;}
-.top-selection ul li a{color:#676767; padding: 3px 16px; text-decoration:none;}
-.top-selection ul li a:hover{color:#fff; background-color:#975aa9; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
-.dashline{border-bottom:1px dotted #947e52; width:665px; height:2px;}
-
-.page-content h3{color:#975aa9; font-weight:bold; font-size:14px; letter-spacing:2px; margin:20px 0 10px 20px;}
-.page-content .p-area{margin-bottom:50px;}
-
-.pagenav{width:100%; text-align:center; color:#999;}
-.pagenav a{color:#FF3F8E; margin:0 3px;text-decoration:none;}
-.pagenav a:hover{color:#ff9bc4;}
-.pagenav a.current{color:#975aa9; text-decoration:underline;}
-
-.meeting-info{width:100%;}
-.meeting-info .image{float:left;}
-.meeting-info .details{width:330px; margin-left:10px; float:left;}
-
-table.table-details {font-size:13px; color:#222;}
-table.table-details td{padding:5px; vertical-align:text-top; line-height:1.5em;}
-table.table-details td button{margin-top:10px;}
-table.table01{ border-spacing:3px; border-collapse:separate;width:665px;} 
-table.table01 td{padding: 10px;}
-table td.bg-purple{background-color:#f5e7f9; color:#000; }
-table td.bg-blue{background-color:#f3f7fd; color:#000;}
-table td.bg-pink{background-color:#fce6ed; color:#000;}
-table td.color-orange{color:#ec8400;}
-
-.font-bright-pink{color:#ff3f8e;}
-.font-red{color:red;}
-.font-blue{color:#00b7f3;}
-.font-purple{color:#975aa9;}
-.font-grey{color:#999;}
-a.font-purple{text-decoration:none;color:#975aa9;}
-a:hover.font-purple{text-decoration:underline;}
-.text-right{text-align:right;}
-
-button.btn-purple{background:#975aa9; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px; margin-right:5px;}
-button:hover.btn-purple{background-color: #ad6cbb;}
+h2.heading-pink{ background:url(../images/heading-pink.gif) no-repeat; width:646px; height:39px; color:#975aa9; font-size:14px; padding-left:20px; line-height:37px;}
+h2.heading-purple{ background:url(../images/heading-purple.gif) no-repeat; width:646px; height:39px; color:#636363; font-size:14px; padding-left:20px; line-height:37px;}
