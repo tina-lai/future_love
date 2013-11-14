@@ -313,3 +313,31 @@ a:hover.font-purple{text-decoration:underline;}
 
 button.btn-purple{background:#975aa9; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px; margin-right:5px;}
 button:hover.btn-purple{background-color: #ad6cbb;}
+
+
+/*--認識本站------------*/
+.about_square{ width:665px; float:left;}
+.about_setup{width:600px; float:left; font-size:12.5px; line-height: 2em; color:#999; padding:20px 0 30px 20px;}
+
+
+/*--新手加入------------*/
+.join_square{ width:650px; float:left; margin:20px 0 0 0;}
+.join_square_1{ width:650px; float:left; margin:20px 0 30px 0;}
+
+
+.top-selection1 {width:650px; float:left;}
+.top-selection1 .selection-category_1{color:#975aa9; float:left; width:90px; font-size:14px; font-size:bold; margin-top:18px; margin-left:20px; line-height:20px;}
+.top-selection1 ul li{float:left; margin: 10px ; line-height:19px;}
+.top-selection1 ul li a{color:#676767; text-decoration:none;}
+.top-selection1 ul li a:hover{color:#ff3f8e;}
+
+
+.top-selection2 {width:650px; float:left;}
+.top-selection2 .selection-category_1{color:#975aa9; float:left; width:90px; font-size:14px; font-size:bold; margin-top:18px; margin-left:20px; line-height:20px;}
+.top-selection2 .selection-category_2{color:#975aa9; float:left; width:90px; font-size:14px; font-size:bold; margin-top:18px; margin-left:20px; margin-right:65px;line-height:20px;}
+.top-selection2 ul li{float:left; margin: -15px ; line-height:19px;}
+.top-selection2 ul li a{color:#676767; text-decoration:none;}
+.top-selection2 ul li a:hover{color:#ff3f8e;}
+.heading-dashline_1{border-bottom:1px dotted #947e52; width:665px; height:2px;  margin:20px 0px;}
+
+
