@@ -2,6 +2,7 @@
 /* CSS Document */
 
 @import url("menu.css");
+p{line-height:1.5em;}
 
 a, button, input{-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -231,7 +232,7 @@ button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-r
 	top:4px;
 	margin-right:5px;
 }
-#index_album .dashline{border-top:1px dotted #c5ae7f; width:99%; margin: 0 auto;}
+#index_album .dashline{border-top:1px dotted #c5ae7f; border-bottom:none; width:99%; margin: 0 auto;}
 #index_album #index_information{
 	background-color:#fbf2fd;
 	border-bottom: 1px solid #eee;
@@ -271,6 +272,8 @@ h2.heading-pink{ background:url(../images/heading-pink.gif) no-repeat; width:646
 h2.heading-pink-66{ background:url(../images/heading-pink.gif) no-repeat; width:646px; height:35px; color:#666; font-size:14px; padding-left:20px; line-height:37px;}
 h2.heading-pink-66 img{position:relative; top:2px;}
 h2.heading-purple{ background:url(../images/heading-purple.gif) no-repeat; width:646px; height:35px; color:#636363; font-size:14px; padding-left:20px; line-height:37px;}
+.page-description{width:630px; padding:0 15px;}
+
 .heading-dashline{border-bottom:1px dotted #947e52; width:665px; height:2px;  margin-bottom:10px;}
 
 .top-selection{width:640px; padding: 0 0 0 20px;}
@@ -280,6 +283,8 @@ h2.heading-purple{ background:url(../images/heading-purple.gif) no-repeat; width
 .top-selection ul li a:hover{color:#fff; background-color:#975aa9; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
 .dashline{border-bottom:1px dotted #947e52; width:665px; height:2px;}
 
+
+.page-content{margin-top:15px;}
 .page-content h3{color:#975aa9; font-weight:bold; font-size:14px; letter-spacing:2px; margin:20px 0 10px 20px;}
 .page-content .p-area{margin-bottom:50px;}
 
@@ -302,6 +307,95 @@ table td.bg-blue{background-color:#f3f7fd; color:#000;}
 table td.bg-pink{background-color:#fce6ed; color:#000;}
 table td.color-orange{color:#ec8400;}
 
+/* form */
+
+.forum .image{float:left;width:160px; height:120px; padding:3px; border:1px solid #eee;}
+.forum ul li{ width:100%px; margin: 25px 4px; padding-bottom:25px; position:relative; border-bottom:1px dotted #947e52;}
+.forum ul li:first-child{margin-top:15px;}
+.forum ul li .info{float:left; width: 435px; margin-left:15px; line-height:15px; font-size:12px;}
+.forum ul li .info .forum-title{font-size:18px; margin:10px 0 10px;}
+.forum ul li .info .forum-title a{text-decoration:underline;}
+.forum ul li .info .forum-title a:hover{text-decoration:none;}
+.forum ul li .info .forum-title span{font-size:12px; font-weight:bold;}
+.forum ul li .info .btm{position:absolute; bottom:20px;}
+.forum ul li .info .btm span{float:left; margin-left:10px;}
+.forum a.e-more{ background:url(../images/e-more.gif) no-repeat; padding-left:15px;  color:#ff3f8e; text-decoration:underline; float:left;}
+.forum a:hover.e-more{text-decoration:none;}
+
+.forum .btn-wrapper{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.forum table{ background:url(../images/heading-pink.gif) no-repeat; padding-top:5px; position:relative; margin:15px 0;}
+.forum table thead{padding:5px 0; height:40px; text-align: center; margin-bottom:20px;}
+.forum table thead td{  height:25px;padding-top:5px; margin-top:5px;}
+.forum table tbody{margin-top:20px; color:#999;}
+.forum table tbody tr:hover{background-color:#f3f7fd;}
+.forum table tbody td .dashline{margin:3px 0;}
+.forum table tbody td a{padding-left:20px;}
+.forum table tbody td a:hover{text-decoration: none;}
+span.right-line{border-right:1px solid #ccc; width:1px; float:right; height:20px;}
+.forum table tr.category-item{height:80px; line-height:1.5em;}
+
+
+.forum .post-title{background:url(../images/heading-pink.gif) no-repeat; width:665px; height:35px; color:#666; font-size:14px; line-height:37px; text-align:center; margin:15px 0 5px;}
+.forum .post-info{width:665px; position:relative; float:left;}
+.forum .post-info .left{ padding:20px 0 20px 37px; width:140px; background-color:#f3f7fd; line-height:1.5em;}
+.forum .post-info .right{ width:440px; padding:0 20px; color:#999;}
+.forum .post-info .post-message{width:270px; float:left;}
+.forum .post-info .btns{float:left; width:170px; position:absolute; bottom:10px; right:0;}
+.forum .post-info .btns button{float:left;}
+table.post-content{background:none;}
+.forum table.post-content tr:hover{background: none;}
+table.post-content tr.post-info {margin-bottom:5px;}
+table.post-content tr.post-info td{border:none; vertical-align:top;}
+
+.forum .post-reply{
+	margin-top: 15px;
+	margin-bottom: 20px;
+	background: url(../images/index_news_bg.gif) repeat-y scroll left top;
+	width: 600px;
+}
+.forum .post-reply .header{
+	position: relative;
+	width: 670px;
+	height: 39px;
+	background: url(../images/pink_header.gif) no-repeat scroll left top;
+	text-align:center;
+}
+.forum .post-reply .header h2 {
+	color:#ff3f8e;
+	font-size:14px;
+	line-height:39px;
+	padding-left:15px;
+	letter-spacing:0.1em;
+}
+.forum .post-reply .header h2 img{
+	position:relative;
+	top:4px;
+	margin-right:5px;
+}
+.forum .post-reply .dashline{border-top:1px dotted #c5ae7f; width:99%; margin: 0 auto;}
+.forum .post-reply .content{
+	background-color:#fbf2fd;
+	border-bottom: 1px solid #eee;
+	width:668px;
+	padding:0 0 15px;
+	border: 1px solid #EEEEEE;
+	border-top:none;
+	position:relative;
+}
+.forum .post-reply .content .dashline{margin-bottom:15px; border-bottom:none; }
+.forum .post-reply .content span{color:#975aa9; margin-left:30px; float:left;}
+.forum .post-reply .content textarea{width:400px; height:130px; float:left;}
+.forum .post-reply .content .btns{float:right; width:170px; position:absolute; bottom:15px; right:10px;}
+.forum .post-reply .content .btns button{float:left;}
+
+
+.breadcrumb{float: right; color:#888; font-size:11px; margin-right:10px; font-weight:normal; }
+
 .font-bright-pink{color:#ff3f8e;}
 .font-red{color:red;}
 .font-blue{color:#00b7f3;}
@@ -313,3 +407,5 @@ a:hover.font-purple{text-decoration:underline;}
 
 button.btn-purple{background:#975aa9; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px; margin-right:5px;}
 button:hover.btn-purple{background-color: #ad6cbb;}
+button.btn-pink{background:#ff69a7; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px; margin-right:5px;}
+button:hover.btn-pink{background-color: #ff86b8;}

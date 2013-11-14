@@ -62,8 +62,9 @@
                 
                 <h2 class="heading-purple">
                 	進階搜尋
+                    <div class="breadcrumb">首頁 > 戀戀園地 > 戀戀論壇</div>
                 </h2>
-                
+                <div class="dashline"></div>
                             
             </div><!-- end 右邊欄位 right col-->
         </div>
