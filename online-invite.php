@@ -109,7 +109,7 @@
                               <div class="dashline"></div>
 
                               <div align="center" style="margin-top:20px;">
-                                  <button class="btn-purple">送出</button>
+                                  <button class="btn-purple" >送出</button>
                                   <button class="btn-purple">回上頁</button>
                                 </div>
     

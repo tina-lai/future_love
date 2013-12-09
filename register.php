@@ -559,7 +559,7 @@ Email
 
                     <div style="float:right; margin:15px 15px 0 0;">
                       <button class="btn-purple">清除重設</button>
-                      <button class="btn-purple">加入會員</button>
+                      <button class="btn-purple" onclick="location.href='date.php'">加入會員</button>
                   </div>
                 </div>
                             

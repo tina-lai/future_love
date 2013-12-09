@@ -76,7 +76,7 @@
                 <div class="page-description">
                 	<p class="font-bright-pink">請大家發表與本區相關的內容，謝絕廣告、人身攻擊與無意義的灌水，違反者將遭受停權等處分，相關規定請參照
 【 戀戀未來審核標準 】</p>
-                    <button class="btn-purple" style="margin-bottom:10px;">我要留言</button>
+                    <button class="btn-purple" style="margin-bottom:10px;" onclick="location.href='guestbook-post.php'">我要留言</button>
 				</div>
                 <div class="dashline"></div>
 

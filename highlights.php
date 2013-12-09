@@ -85,74 +85,74 @@
                     <div class="page-content highlights">
                       <ul class="clearfix">
                           <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php" class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>
                             <li>
-                              <a href="#"><img src="images/album.jpg" width="120" height="100" class="image"></a>
-                                <div><a href="#"class="font-purple">人山人海的會場</a></div>
+                              <a href="highlights-info.php"><img src="images/album.jpg" width="120" height="100" class="image"></a>
+                                <div><a href="highlights-info.php"class="font-purple">人山人海的會場</a></div>
                                 <div class="font-grey">2013/09/26 </div>
                                 <div class="font-grey">台北</div>
                             </li>

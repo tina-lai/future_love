@@ -84,8 +84,8 @@
                     <div class="top-selection clearfix">
                 	<div class="selection-category">項目 ｜</div>
                     <ul class="clearfix">
-                    	<li><a href="join_01.php">新人喜訊</a></li>
-                        <li><a href="join_02.php">配對成功</a></li>
+                    	<li><a href="couple.php">新人喜訊</a></li>
+                        <li><a href="couple_02.php">配對成功</a></li>
                     </ul>
                 </div>
                 <div class="dashline"></div>

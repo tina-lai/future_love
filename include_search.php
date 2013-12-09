@@ -16,5 +16,5 @@
                 	  <option>高中</option>
                 	</select></div>
                     <button id="search">搜尋</button>
-                    <button id="adv-search">進階搜尋</button>
+                    <button id="adv-search" onclick="location.href='advance_search.php'">進階搜尋</button>
                 </div>

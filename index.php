@@ -19,7 +19,19 @@
     <!--[if lt IE 9]>
       <script src="/js/html5shiv.js"></script>
     <![endif]-->
-    
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+<!--跑馬燈_start-->    
+<!--需使用http://code.jquery.com/jquery-latest.min.js-->
+<link media="screen" rel="stylesheet" type="text/css" href="css/latest.css" />
+<script type="text/javascript" src="js/banner_text.js"></script>
+<!--跑馬燈_end-->  
+ 
+<!--banner_start-->
+<!--需使用http://code.jquery.com/jquery-latest.min.js-->
+<link media="screen" rel="stylesheet" type="text/css" href="css/banner_slider.css" />
+<script type="text/javascript" src="js/banner_slider.js"></script>
+<!--banner_end-->    
    
   </head>
 
@@ -39,9 +51,8 @@
         
         <div id="content" class="clearfix">
         
-        	<div class="banner" style="width:940px; height:300px;">
-       	    	<img src="images/banner.jpg"> 
-            </div>
+        	<!--banner圖引入-->
+        	<?php include("include_banner.php");?>
         	
             
             <!-- 左邊欄位-->
@@ -62,11 +73,8 @@
           </div><!-- end  左邊欄位-->
             
             <div id="right-col">
-            	<div class="text-slider">
-           	    	<img src="images/icon-logo-purple.png" width="18" height="16"> 
-                    <span class="font-red">10/05  新竹地區 戶外聯誼   </span>
-                    <span class="font-blue">☆ 企業聯誼☆  戀戀香草幸福出遊-戶外之旅，目前男性報名資料.   >小帆25 歲 / 桃園縣 </span>  
-                </div>
+            	<!--跑馬燈引入-->
+            	<? include("include_Message.php"); ?>
                 
                 <div id="index_mem">
                     <div class="header">

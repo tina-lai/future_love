@@ -158,7 +158,7 @@
                               <div class="dashline"></div>
 
                               <div align="center" style="margin-top:20px;">
-                                  <button class="btn-purple">我要邀約</button>
+                                  <button class="btn-purple" onclick="location.href='online-invite.php'">我要邀約</button>
                                   <button class="btn-purple" style="width:100px;">加入追蹤名單</button>
                                 </div>
     

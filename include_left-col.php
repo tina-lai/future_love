@@ -31,7 +31,9 @@
                     
                 </div><!-- end 喜事連連 -->
                 
-                <div class="facebook"> <a href="#"><img src="images/fb.jpg" width="242" height="79"></a> </div>
+                <div class="facebook"> 
+                <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ffuturelove520&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=1400549093495778" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px;" allowTransparency="true"></iframe>
+                </div>
                 
               <div class="count">
                 	<ul>

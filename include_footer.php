@@ -3,7 +3,7 @@
             <a href="#">合作提案</a> <span>|</span>
             <a href="#">親友推薦</a> <span>|</span>
             <a href="#">本站徵才</a> <span>|</span>
-            <a href="#">友情連結</a> <span>|</span>
+            <a href="link_01.php">友情連結</a> <span>|</span>
             <a href="#">隱私權政策</a> <span>|</span>
             <a href="#">會員條款</a>
         </nav>

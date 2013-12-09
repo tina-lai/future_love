@@ -168,7 +168,7 @@
                         </ul>
 
                         <div style="padding-left: 20px; margin-top: 50px;">
-                          <a href="#" class="font-purple"> < 查看其他花絮</a>
+                          <a href="highlights.php" class="font-purple"> < 查看其他花絮</a>
                         </div>
 
                     </div>

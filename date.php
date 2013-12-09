@@ -525,7 +525,7 @@
 
                     <div style="float:right; margin:15px 15px 0 0;">
                       <button class="btn-purple">清除重設</button>
-                      <button class="btn-purple">送出排約資料</button>
+                      <button class="btn-purple" onclick="location.href='member.php'">送出排約資料</button>
                   </div>
                 </div>
                             

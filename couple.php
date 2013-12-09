@@ -84,8 +84,8 @@
                     <div class="top-selection clearfix">
                 	<div class="selection-category">項目 ｜</div>
                     <ul class="clearfix">
-                    	<li><a href="join_01.php">新人喜訊</a></li>
-                        <li><a href="join_02.php">配對成功</a></li>
+                    	<li><a href="couple.php">新人喜訊</a></li>
+                        <li><a href="couple_02.php">配對成功</a></li>
                     </ul>
                 </div>
                 <div class="dashline"></div>
@@ -97,7 +97,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -105,7 +105,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -113,7 +113,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -121,7 +121,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -129,7 +129,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -137,7 +137,7 @@
                                 <div class="info">
                                   <div class="font-purple">小明 & 小美 </div>
                                   <div class="font-grey"> 恭喜!參加本站101/12/29台中場次，感謝分享您們的結婚照片，為參加戀戀未來可以遇到真愛又多了一份見證分享，戀戀未來全體工作人員獻上無限的祝福！</div>
-                                  <a href="#" class="e-more">詳細內文</a>
+                                  <a href="couple-info.php" class="e-more">詳細內文</a>
                                 </div>
                             </li>
                              

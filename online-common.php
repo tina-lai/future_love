@@ -31,7 +31,7 @@
 <!--需使用http://code.jquery.com/jquery-latest.min.js-->
 <link media="screen" rel="stylesheet" type="text/css" href="css/banner_slider.css" />
 <script type="text/javascript" src="js/banner_slider.js"></script>
-<!--banner_end-->    
+<!--banner_end-->        
    
   </head>
 
@@ -50,19 +50,23 @@
         <!-- end 右方搜尋-->
         
         <div id="content" class="clearfix">
-        	<div id="abgneBlock" class="banner" style="width:940px; height:300px;">
-       	    	<ul class="list">
-			       <li><a target="_blank" href="#"><img src="images/banner.jpg"></a></li>
-			       <li><a target="_blank" href="#"><img src="images/banner.jpg"></a></li>
-			       <li><a target="_blank" href="#"><img src="images/banner.jpg"></a></li>
-			       <li><a target="_blank" href="#"><img src="images/banner.jpg"></a></li>
-			       <li><a target="_blank" href="#"><img src="images/banner.jpg"></a></li>
-		       </ul>
-            </div>
+        	<!--banner圖引入-->
+        	<?php //include("include_banner.php");?> 
         	
             
             <!-- 左邊欄位-->
             <div id="left-col">
+
+                <div class="submenu">
+                  <ul>
+                    <li><a href="#">線上交友></a></li>
+                    <li><a href="#">客制相親></a></li>
+                    <li><a href="#">相親指南></a></li>
+                    <li><a href="#">相親問答></a></li>
+                    <li><a href="#">服務比較></a></li>
+                    <li><a href="#">排約據點></a></li>
+                  </ul>
+                </div>
                 
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
@@ -74,13 +78,14 @@
             	<!--跑馬燈引入-->
             	<? include("include_Message.php"); ?>
                 
-                <h2 class="heading-pink">
-                	進階搜尋
-                    <div class="breadcrumb">首頁 > 進階搜尋</div>
-                </h2>
-                <div class="heading-dashline"></div>
-                
-                <div class="top-selection clearfix">
+                <div class="page-content">
+                        <h2 class="heading-pink">
+                        線上交友
+                          <div class="breadcrumb">首頁 > 相親排約 > 線上交友</div>
+                        </h2>
+                    <div class="heading-dashline"></div>
+
+                    <div class="top-selection clearfix">
                 	   <div class="selection-category">分類 ｜</div>
                           <ul class="clearfix">
                     	     <li><a href="online-common.php">一般搜尋</a></li>
@@ -88,11 +93,9 @@
                           </ul>
                        </div>
                     </div>
-                <div class="dashline"></div>   
-                
-                <div class="page-content">
-                    <h3>>> 搜尋條件</h3>
-
+                     <div class="dashline"></div>   
+                    <h3>>>一般搜尋</h3>
+                    <div class="p-mem">
                     <table class="table01" width="100%" cellspacing="2" cellpadding="2">
                       <tr>
                         <td width="150" class="bg-purple text-right">照片：</td>
@@ -107,65 +110,24 @@
                         <td class="bg-blue"><select><option>民國</option></select> ~ <select><option>民國</option></select></td>
                       </tr>
                       <tr>
-                        <td class="bg-purple text-right">身高：</td>
-                        <td class="bg-blue"><select><option>請選擇</option></select> cm</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">體重：</td>
-                        <td class="bg-blue"><select><option>請選擇</option></select> kg</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">婚姻：</td>
-                        <td class="bg-blue"><input type="radio"> 未婚 <input type="radio"> 離婚 <input type="radio"> 喪偶</td>
-                      </tr>
-                      <tr>
                         <td class="bg-purple text-right">居住縣市：</td>
-                        <td class="bg-blue"><select><option>請選擇縣市</option></select></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">工作縣市：</td>
                         <td class="bg-blue"><select><option>請選擇縣市</option></select></td>
                       </tr>
                       <tr>
                         <td class="bg-purple text-right">學歷：</td>
                         <td class="bg-blue"><input type="radio"> 國中 <input type="radio"> 高中職 <input type="radio"> 專科 <input type="radio"> 大學 <input type="radio"> 碩士 <input type="radio"> 博士</td>
                       </tr>
-                      <tr>
-                        <td class="bg-purple text-right">年收入：</td>
-                        <td class="bg-blue"><select><option>請選擇</option></select></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">存款：</td>
-                        <td class="bg-blue"><select><option>請選擇</option></select></td>
-                      </tr>
                     </table>
 
-                    <div class="dashline"></div>
-
-                    <table class="table01" width="100%" cellspacing="2" cellpadding="2">
-                      <tr>
-                        <td width="150" class="bg-purple text-right">素食：</td>
-                        <td class="bg-pink">2013.12.14(六)  12:00～15:30</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">血型：</td>
-                        <td class="bg-pink"><select><option>請選擇</option></select></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">信仰：</td>
-                        <td class="bg-pink"><input type="radio"> 無 <input type="radio"> 佛教 <input type="radio"> 道教 <input type="radio"> 基督教 <input type="radio"> 天主教 <input type="radio"> 回教 <input type="radio"> 無</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">省籍：</td>
-                        <td class="bg-pink"><input type="radio"> 台灣 <input type="radio"> 台灣以外地區<select><option>不拘</option></select></td>
-                      </tr>
-                    </table>
-
-                    <div style="float:right; margin:15px 15px 0 0;">
-                      <button class="btn-purple">清除重設</button>
-                      <button class="btn-purple" onclick="location.href='online-list.php'">開始搜尋</button>
+                    <div style="width:100%; margin: 10px 0; text-align:center;">
+                        <button class="btn-purple" onclick="location.href='online-list.php'">搜尋</button>
+                        <!--
+                        <button class="btn-pink">進階搜尋</button>
+                        -->
+                    </div>
                   </div>
                 </div>
+                <!-- end page content-->
                             
             </div><!-- end 右邊欄位 right col-->
         </div>

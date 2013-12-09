@@ -84,196 +84,116 @@
                         </h2>
                     <div class="heading-dashline"></div>
 
-                    <h3>>>一般搜尋</h3>
 
-                    <table class="table01" width="100%" cellspacing="2" cellpadding="2">
-                      <tr>
-                        <td width="150" class="bg-purple text-right">照片：</td>
-                        <td class="bg-blue"><input type="radio"> 有 <input type="radio"> 無</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">性別：</td>
-                        <td class="bg-blue"><input type="radio"> 男 <input type="radio"> 女</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">年次：</td>
-                        <td class="bg-blue"><select><option>民國</option></select> ~ <select><option>民國</option></select></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">居住縣市：</td>
-                        <td class="bg-blue"><select><option>請選擇縣市</option></select></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">學歷：</td>
-                        <td class="bg-blue"><input type="radio"> 國中 <input type="radio"> 高中職 <input type="radio"> 專科 <input type="radio"> 大學 <input type="radio"> 碩士 <input type="radio"> 博士</td>
-                      </tr>
-                    </table>
-
-                    <div style="width:100%; margin: 10px 0; text-align:center;">
-                        <button class="btn-purple">搜尋</button>
-                        <button class="btn-pink">進階搜尋</button>
+                <div class="top-selection clearfix">
+                	<div class="selection-category">分類 ｜</div>
+                    <ul class="clearfix">
+                    	<li><a href="online-common.php">一般搜尋</a></li>
+                        <li><a href="advance_search.php">進階搜尋</a></li>
+                    </ul>
                     </div>
-
-
-                    <div class="dashline"></div>
-
-                    <div id="index_mem" style="margin-top:30px;">
-                    <div class="header">
-                        <h2><img src="images/icon-logo-purple.png" width="18" height="16">精選會員</h2>
-                    </div>
-                    <div id="index_information">
-                        <div class="index_tab_select clearfix" class="navcontainer">
-                            <ul class="tabs">
-                                <li id="fpop"><a href="#">女性人氣會員</a></li>
-                                <li id="mpop"><a href="#">男性人氣會員</a></li>
-                                <li id="fnew"><a href="#">女性新進會員</a></li>
-                                <li id="mnew"><a href="#">男性新進會員</a></li>
-                            </ul>
-                        </div>
-                        <div>
-                        <!-- tab "panes" -->
-                        <div class="panes p-mem">
-                            <!-- 女性人氣會員 tab -->
-                            <div class="clearfix">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                </ul>
-                            <div style="float:right;">more...</div>
-                            </div>
-                            <!--end 女性人氣會員 tab -->
-                            
-                            <!-- 男性人氣會員 tab -->
-                            <div class="clearfix">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!--end 男性人氣會員 tab -->
-                            
-                            <!-- 女性新進會員 tab -->
-                            <div class="clearfix">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/member.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                </ul>
-                            </div>
-                            <!--end 女性新進會員 tab -->
-                            
-                            <!-- 男性新進會員 tab -->
-                            <div class="clearfix">
-                                <ul>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                    <li>
-                                        <a href="#"><img src="images/memberm.jpg" width="100" height="100" class="image"></a>
-                                        <div class="font-purple">小帆</div>
-                                        <div class="font-grey">25 歲 / 桃園縣  </div>
-                                    </li>
-                                </ul>
-                            <div style="float:right;">more...</div>
-                            </div>
-                            <!--end 男性新進會員 tab -->
-                        </div>
-                        <!-- end panes-->
-                        </div>
-                    </div>
-                    <!-- end information-->
                 </div>
-                <!-- end 精選會員 -->
+                <div class="dashline"></div>      
+                
+                <div class="p-mem">
+                            <div class="clearfix">
+                                <ul>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                    <li>
+                                        <a href="online-info.php"><img src="images/member.jpg" width="100" height="100" class="image"></a>
+                                        <div class="font-purple">小帆</div>
+                                        <div class="font-grey">25 歲 / 桃園縣  </div>
+                                    </li>
+                                </ul>
+                        </div>
+
+                        <div class="pagenav" style="margin: 50px 0 30px 0;">
+                          « 上一頁     
+                          <a class="current" href="#">1</a>
+                          <a href="#">2</a> 
+                          <a href="#">3</a> 
+                          <a href="#">4</a> 
+                          <a href="#">5</a> 
+                          <a href="#">6</a> 
+                          <a href="#">7</a> 
+                          <a href="#">8</a> 
+                          <a href="#">9</a> 
+                          <a href="#">10</a> 
+                          <a href="#">下一頁 »</a>      
+                      </div>
                 
     
                 </div>
-                <!-- end page content-->
-                            
+                <!-- end page content-->      
             </div><!-- end 右邊欄位 right col-->
         </div>
     	

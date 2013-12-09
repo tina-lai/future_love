@@ -12,4 +12,4 @@
                 <a href="#">回首頁 </a>
                 <img src="images/icon-logo-pink.png" width="16" height="16">  
             </div>
-        </div>iv>
+        </div>

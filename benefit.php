@@ -107,7 +107,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -118,7 +118,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -129,7 +129,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -140,7 +140,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -151,7 +151,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                             <li class="clearfix">
@@ -162,7 +162,7 @@
                                   <div class="font-grey"> <span class="font-555">地址：</span>台北市中山區</div>
                                   <div class="font-grey"> <span class="font-555">優惠說明：</span>凡月老銀行會員至「http://www.pcstore.com.tw/hoyajt/」購買月老媒或不老梅產品，在填寫購物資料頁面的註明「月老銀行VIP及帳號」，御梅屋將贈送月老媒試飲品1瓶，名額有限，送完為止。</div>
                                   <div class="font-grey"> <span class="font-555">公司簡介：</span>遵循古法精釀10年，與義大利陳年橡木桶果醋交織出卓越口感，適合沖泡成飲品、搭配醋酒或當入菜沾醬，皆具有促進新陳代謝，提升免疫力，延緩老化等效果。禮盒內附台灣最著名月老廟，霞海城隍廟過香火之紅線，期許天下有緣人男女同心，千里姻緣一線牽，健康安樂一萬年。  </div>
-                                  <a href="#" class="e-more" style="margin-top:20px;">詳細內文</a>
+                                  <a href="benefit-info.php" class="e-more" style="margin-top:20px;">詳細內文</a>
                                 </div>
                             </li>
                              
