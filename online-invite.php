@@ -31,8 +31,9 @@
 <!--需使用http://code.jquery.com/jquery-latest.min.js-->
 <link media="screen" rel="stylesheet" type="text/css" href="css/banner_slider.css" />
 <script type="text/javascript" src="js/banner_slider.js"></script>
-<!--banner_end-->      
-</head>
+<!--banner_end-->        
+   
+  </head>
 
 <body>
     
@@ -50,18 +51,22 @@
         
         <div id="content" class="clearfix">
         	<!--banner圖引入-->
-        	<?php //include("include_banner.php");?>    	
+        	<?php //include("include_banner.php");?> 
+        	
             
             <!-- 左邊欄位-->
             <div id="left-col">
 
                 <div class="submenu">
                   <ul>
-                    <li><a href="#">服務項目></a></li>
-                    <li><a href="#">加入流程></a></li>
-                    <li><a href="#">網站導覽></a></li>
+                    <li><a href="#">線上交友></a></li>
+                    <li><a href="#">客制相親></a></li>
+                    <li><a href="#">相親指南></a></li>
+                    <li><a href="#">相親問答></a></li>
+                    <li><a href="#">服務比較></a></li>
+                    <li><a href="#">排約據點></a></li>
                   </ul>
-                </div> 
+                </div>
                 
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
@@ -72,24 +77,44 @@
             <div id="right-col">
             	<!--跑馬燈引入-->
             	<? include("include_Message.php"); ?>
-                <div class="about_square">
+                <div class="page-content">
                         <h2 class="heading-pink">
-                        成立宗旨
+                        線上交友
+                          <div class="breadcrumb">首頁 > 相親排約 > 線上交友</div>
                         </h2>
                     <div class="heading-dashline"></div>
-                    <div class="top-selection clearfix">
-                	<div class="selection-category">項目 ｜</div>
-                    <ul class="clearfix">
-                    	<li><a href="join_01.php">入會流程</a></li>
-                        <li><a href="join_02.php">線上排約流程</a></li>
-                        <li><a href="join_03.php">報名繳費</a></li>
-                    </ul>
+
+                    <h3>>>排約地點</h3>
+
+                    
+                        <table class="table01" width="100%" cellspacing="2" cellpadding="2">
+                                  <tr>
+                                    <td class="bg-pink text-right" width="10"><input type=checkbox></td>
+                                    <td>主辦單位指定</td>
+                                  </tr>
+                                  <tr>
+                                    <td class="bg-pink text-right"><input type=checkbox></td>
+                                    <td>雙方私下約定方便的排約地點，自行見面</td>
+                                  </tr>
+                                  <tr>
+                                    <td class="bg-pink text-right" style="verical-align:top;" valign="top"><input type=checkbox></td>
+                                    <td>建議地點<br>
+                                        <p style="float:left; margin-right: 30px;">地點：<input type="text"></p>
+                                        <p style="float:left; margin-right: 30px;">地址：<input type="text"></p>
+                                        <p style="float:left; margin-right: 30px;">網址：<input type="text"></p>
+                                        <p style="float:left; margin-right: 30px;">電話：<input type="text"></p>
+                                    </td>
+                                  </tr>
+                              </table>
+                              <div class="dashline"></div>
+
+                              <div align="center" style="margin-top:20px;">
+                                  <button class="btn-purple">送出</button>
+                                  <button class="btn-purple">回上頁</button>
+                                </div>
+    
                 </div>
-                <div class="dashline"></div>
-                        <div class="join_square">
-           					<img src="images/flow_3.png">
-                        </div>
-                </div>
+                <!-- end page content-->
                             
             </div><!-- end 右邊欄位 right col-->
         </div>

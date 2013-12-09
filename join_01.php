@@ -56,6 +56,14 @@
             <!-- 左邊欄位-->
             <div id="left-col">
                 
+                <div class="submenu">
+                  <ul>
+                    <li><a href="#">服務項目></a></li>
+                    <li><a href="#">加入流程></a></li>
+                    <li><a href="#">網站導覽></a></li>
+                  </ul>
+                </div> 
+                
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
                 <!-- end 左欄內容-->

@@ -63,19 +63,23 @@
           </div><!-- end  左邊欄位-->
             
             <div id="right-col">
-            	<!--跑馬燈引入-->
-            	<? include("include_Message.php"); ?>
-                
-                <h2 class="heading-purple">聯絡方式
-                    <div class="breadcrumb">首頁 > 聯絡我們 > 聯絡方式</div>
-                </h2>
-                <div class="dashline"></div>          
-                <div style="width:95%">
-                <br>1.您可在本站留言版上留言。
-                <br>2.您可來信 futurelove520@gmail.com 將儘快為您回答。
-                <br>3.您可來電0986-699521(亞太)郭小姐洽詢任何聯誼相關問題(聯絡時間早上12時~下午8時)。
-                <br>以上聯絡資訊不適用對帳。
-                <br>4.各區排約據點詳如……………………
+                <!--跑馬燈引入-->
+                <? include("include_Message.php"); ?>
+
+                <div class="page-content">
+                        <h2 class="heading-pink">
+                        甜蜜分享
+                            <div class="breadcrumb">首頁 > 戀戀園地 > 甜蜜分享</div>
+                        </h2>
+                        <div class="dashline"></div>
+
+                        <div class="about_setup">
+                        <p>1.您可在本站留言版上留言。</p>
+                        <p>2.您可來信 futurelove520@gmail.com 將儘快為您回答。</p>
+                        <p>3.您可來電0986-699521(亞太)郭小姐洽詢任何聯誼相關問題(聯絡時間早上12時~下午8時)。</p>
+                        <p>以上聯絡資訊不適用對帳。</p>
+                        <p>4.各區排約據點詳如……………………</p>
+                        </div>
                 </div>
                 
                   

@@ -93,14 +93,14 @@
                     <div id="index_information">
                         <div class="index_tab_select clearfix" class="navcontainer">
                             <ul class="tabs">
-                                <li id="member-info-01"><a href="#">會員資料</a></li>
-                                <li id="member-info-02"><a href="#">排約資料</a></li>
+                                <li><a href="#">修改基本資料</a></li>
+                                <li><a href="#">修改排約資料</a></li>
                             </ul>
                         </div>
                         <div>
                         <!-- tab "panes" -->
                         <div class="panes p-info">
-                            <!-- 會員資料 tab -->
+                            <!-- 修改基本資料 tab -->
                             <div class="clearfix">
                                 <table class="table01" width="100%" cellspacing="2" cellpadding="2">
                                   <tr>
@@ -170,9 +170,9 @@
                                 </table>
                             
                             </div>
-                            <!--end 會員資料 tab -->
+                            <!--end 修改資料 tab -->
                             
-                            <!-- 排約資料 tab -->
+                            <!-- 修改排約資料 tab -->
                             <div class="clearfix">
                                 <table class="table01" width="100%" cellspacing="2" cellpadding="2">
                                   <tr>
@@ -256,8 +256,8 @@
                                 </table>
                             
                             </div>
-                            <!--end 排約資料 tab -->
-                            
+                            <!--end 修改排約資料 tab -->
+
                         </div>
                         <!-- end panes-->
                         </div>

@@ -85,6 +85,7 @@
                 <div class="about_square">
                         <h2 class="heading-pink">
                         成立宗旨
+                            <div class="breadcrumb">首頁 > 認識本站 > 成立宗旨</div>
                         </h2>
                         <div class="dashline"></div>
                         <div class="about_setup">
@@ -103,6 +104,7 @@
                           <p>一切的努力，只為了讓您在「戀戀未來，遇見未來」…..。</p>
                       </div>
                 </div>
+              
                             
             </div><!-- end 右邊欄位 right col-->
         </div>

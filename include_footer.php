@@ -1,12 +1,11 @@
     <footer>
     	<nav class="wrapper clearfix">
-            <a href="#"><img src="images/fmenu-01_off.png" width="53" height="22"></a> <span>|</span>
-            <a href="#"><img src="images/fmenu-02_off.png" width="53" height="22"></a> <span>|</span>
-            <a href="#"><img src="images/fmenu-03_off.png" width="53" height="22"></a> <span>|</span>
-            <a href="#"><img src="images/fmenu-04_off.png" width="53" height="22"></a> <span>|</span>
-            <a href="#"><img src="images/fmenu-05_off.png" width="53" height="22"></a> <span>|</span>
-            <a href="#"><img src="images/fmenu-06_off.png" width="53" height="22"></a>
-            
+            <a href="#">合作提案</a> <span>|</span>
+            <a href="#">親友推薦</a> <span>|</span>
+            <a href="#">本站徵才</a> <span>|</span>
+            <a href="#">友情連結</a> <span>|</span>
+            <a href="#">隱私權政策</a> <span>|</span>
+            <a href="#">會員條款</a>
         </nav>
         <div class="wrapper clearfix">	
           <div class="left-wrapper">
@@ -18,18 +17,8 @@
           </div>
         </div>
         <div class="copyright clearfix">
-        	<div class="wrapper">
-              <div class="float-left" align="center">政府設立第10160118840字號 版權所有 copyright © futurelove All Rights Reserved.</div>
-            </div>
-        </div>
-    </footer>35"></a></div>
-          	<img src="images/line.gif" width="76" height="73" class="line-img">
-          </div>
-        </div>
-        <div class="copyright clearfix">
-        	<div class="wrapper">
-              <div class="float-left">版權所有 <span class="font-serif">copyright © futurelove All Rights Reserved.</span></div>
-              <div class="float-right">政府設立第xxxxxxx字號 家家生活企業社</div>
+        	<div class="wrapper" align="center">
+              政府設立第10160118840字號 版權所有 copyright © futurelove All Rights Reserved.
             </div>
         </div>
     </footer>

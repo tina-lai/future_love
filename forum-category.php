@@ -56,6 +56,15 @@
             
             <!-- 左邊欄位-->
             <div id="left-col">
+
+                <div class="submenu">
+                  <ul>
+                    <li><a href="#">聯誼花絮></a></li>
+                    <li><a href="#">甜蜜分享></a></li>
+                    <li><a href="#">練練論壇></a></li>
+                    <li><a href="#">練練好康></a></li>
+                  </ul>
+                </div>
                 
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
@@ -85,7 +94,7 @@
 
                       <button class="btn-purple">+新增主題</button>
                     	
-                      <table width="665" border="0" cellspacing="0" cellpadding="0">
+                      <table width="665" border="0" cellspacing="0" cellpadding="0" class="table-style-1">
                       	<thead>
                           <tr>
                             <td width="315">標題<span class="right-line"></span></td>

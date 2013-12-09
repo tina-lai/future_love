@@ -31,8 +31,9 @@
 <!--需使用http://code.jquery.com/jquery-latest.min.js-->
 <link media="screen" rel="stylesheet" type="text/css" href="css/banner_slider.css" />
 <script type="text/javascript" src="js/banner_slider.js"></script>
-<!--banner_end-->      
-</head>
+<!--banner_end-->     
+   
+  </head>
 
 <body>
     
@@ -50,18 +51,11 @@
         
         <div id="content" class="clearfix">
         	<!--banner圖引入-->
-        	<?php //include("include_banner.php");?>    	
+        	<?php //include("include_banner.php");?>
+        	
             
             <!-- 左邊欄位-->
             <div id="left-col">
-
-                <div class="submenu">
-                  <ul>
-                    <li><a href="#">服務項目></a></li>
-                    <li><a href="#">加入流程></a></li>
-                    <li><a href="#">網站導覽></a></li>
-                  </ul>
-                </div> 
                 
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
@@ -72,24 +66,46 @@
             <div id="right-col">
             	<!--跑馬燈引入-->
             	<? include("include_Message.php"); ?>
-                <div class="about_square">
-                        <h2 class="heading-pink">
-                        成立宗旨
-                        </h2>
-                    <div class="heading-dashline"></div>
-                    <div class="top-selection clearfix">
-                	<div class="selection-category">項目 ｜</div>
-                    <ul class="clearfix">
-                    	<li><a href="join_01.php">入會流程</a></li>
-                        <li><a href="join_02.php">線上排約流程</a></li>
-                        <li><a href="join_03.php">報名繳費</a></li>
-                    </ul>
-                </div>
+                
+                <h2 class="heading-purple">
+                	留言板
+                    <div class="breadcrumb">首頁 > 聯絡我們 > 留言板</div>
+                </h2>
+                <div class="heading-dashline"></div>
+                
+                <div class="page-description">
+                	<p class="font-grey">如果您是本站會員，請先登入會員後再留言喔! 留言版為公開狀態， 如果留言內容涉及隱私，請來信futurelove520@gmail.com 本站於收到您的留言或來信後，將會儘速回覆</p>
+                    <button class="btn-purple" style="margin-bottom:10px;">回上層</button>
+				</div>
                 <div class="dashline"></div>
-                        <div class="join_square">
-           					<img src="images/flow_3.png">
+
+                <div class="page-content">
+                    
+                    <div class="forum">
+                    	
+
+                      <div class="post-reply">
+                        <div class="header">
+                            <h2><img src="images/icon-logo-purple.png" width="18" height="16">回應文章<img src="images/icon-logo-purple.png" width="18" height="16"></h2>
                         </div>
-                </div>
+                        <div class="content clearfix">
+                            <div class="dashline"></div>
+                            <p><span>暱稱：</span><input type="text"></p>
+                            <p><span>Email：</span><input type="text"><font color="#666">必填欄位，不公開</font></p>
+                            <p><span>標題：</span><input type="text"><font color="#666">17字內</font></p>
+                            <span>內容：</span>
+                            <textarea></textarea>
+                            <div class="btns">
+                                <button class="btn-pink">送出</button>
+                                <button class="btn-purple">清除</button>
+                            </div>
+                        </div>
+                      </div>
+
+
+                    </div><!-- end forum-->
+                
+                </div><!-- end page content-->
                             
             </div><!-- end 右邊欄位 right col-->
         </div>

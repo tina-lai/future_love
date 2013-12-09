@@ -57,6 +57,14 @@
             <!-- 左邊欄位-->
             <div id="left-col">
                 
+                <div class="submenu">
+                  <ul>
+                    <li><a href="#">服務項目></a></li>
+                    <li><a href="#">加入流程></a></li>
+                    <li><a href="#">網站導覽></a></li>
+                  </ul>
+                </div> 
+
                 <!-- 左欄內容-->
                	<?php include("include_left-col.php");?>
                 <!-- end 左欄內容-->
@@ -71,7 +79,7 @@
                         網站導覽
                         </h2>
                     <div class="heading-dashline"></div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 認識本站｜</div>
                       <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">入會流程</a></li>
@@ -79,34 +87,26 @@
                             <li><a href="#"><img src="./images/e-more-pink.gif">報名繳費</a></li>
                         </ul>
                     </div>
-                  <div class="top-selection1">
+                  <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 相親排約｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">線上交友</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">客制相親</a></li>
+                            <li><a href="#"><img src="./images/e-more-pink.gif">相親指南</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">相親問答</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">服務比較</a></li>
+                            <li><a href="#"><img src="./images/e-more-pink.gif">各區排約聚點</a></li>
                         </ul>
                     </div>
-                  <div class="top-selection2">
-                    <div class="selection-category_1"></div>
-                    <div class="selection-category_1"></div>
-                       <ul class="clearfix">
-                          <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/e-more-pink.gif">相親指南</a></li>
-                           <li></li>
-                           <div class="selection-category_2"></div>
-                           
-                           <li><a href="#"><img src="./images/e-more-pink.gif">各區排約聚點</a></li>
-                       </ul>
-                    </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 團體聯誼｜</div>
                         <ul class="clearfix">
-                            <li><a href="#"><img src="./images/e-more-pink.gif">區域聯誼活動列表</a></li>
-                            <li><a href="#"><img src="./images/e-more-pink.gif">活動說明</a></li>
+                            <li><a href="#"><img src="./images/e-more-pink.gif">室內聯誼</a></li>
+                            <li><a href="#"><img src="./images/e-more-pink.gif">戶外聯誼</a></li>
+                            <li><a href="#"><img src="./images/e-more-pink.gif">企業聯誼</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 新手加入｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">服務項目</a></li>
@@ -114,7 +114,7 @@
                             <li><a href="#"><img src="./images/e-more-pink.gif">網站導覽</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 戀戀園地｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">聯誼花絮</a></li>
@@ -123,74 +123,69 @@
                             <li><a href="#"><img src="./images/e-more-pink.gif">戀戀好康</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 聯絡我們｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">聯絡方式</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">常見問題</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">留言板</a></li>
                         </ul>
-                        <div class="heading-dashline_1"></div>
                     </div>
-                  <div class="top-selection1">
+                    <div class="dashline" style="float:left"></div>
+                  <div class="top-selection1 clearfix">
                     <div class="selection-category_1">&gt;&gt; 活動公告｜</div>
                     <ul class="clearfix">
                           <li><a href="#"><img src="./images/e-more-pink.gif">活動公告</a></li>
                      </ul>
                     </div>
-                  <div class="top-selection1">
+                  <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 會員專區｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">個人基本資料</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">活動紀錄 / 繳費回報</a></li>
                             <li><a href="#"><img src="./images/e-more-pink.gif">報名聯誼活動</a></li>
-                        </ul>
-                    </div>
-                   <div class="top-selection1">
-                        <div class="selection-category_1"></div>
-                        <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">報名排約 / 修改排約資料</a></li>
                         </ul>
-                        <div class="heading-dashline_1"></div>
                     </div>
-                    <div class="top-selection1">
+                    <div class="dashline" style="float:left"></div>
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 會員條款｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">會員條款</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 合作提案｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">合作提案</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 友情連結｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">友情連結</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 親友推薦｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">親友推薦</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 網站導覽｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">網站導覽</a></li>
                         </ul>
                     </div>
-                    <div class="top-selection1">
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 本站徵才｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">本站徵才</a></li>
                         </ul>
-                        <div class="heading-dashline_1"></div>
                     </div>
-                    <div class="top-selection1">
+                    <div class="dashline" style="float:left"></div>
+                    <div class="top-selection1 clearfix">
                         <div class="selection-category_1">&gt;&gt; 進階搜尋｜</div>
                         <ul class="clearfix">
                             <li><a href="#"><img src="./images/e-more-pink.gif">進階搜尋</a></li>
