@@ -3,9 +3,9 @@
           <ul class="wrap clearfix button">
               <li class="lm pop nav01"><a href="#"><img src="images/menu-01.png" alt="Wedding ウェディング"></a></li>
               <li class="lm pop nav02"><a href="#"><img src="images/menu-02.png" alt="Engagement 結納"></a></li>
-              <li class="lm pop nav03"><a href="#"><img src="images/menu-03.png" alt="Party パーティー・宴会"></a></li>
+              <li class="lm pop nav03"><a href="group.php"><img src="images/menu-03.png" alt="Party パーティー・宴会"></a></li>
               <li class="cm pop nav04"><a href="index.php"><img src="images/logo.png" alt="エリスリーナ西原ヒルズガーデン"></a></li>
-              <li class="rm pop nav05"><a href="#"><img src="images/menu-04.png" alt="Guide 施設案内"></a></li>
+              <li class="rm pop nav05"><a href="forum.php"><img src="images/menu-04.png" alt="Guide 施設案内"></a></li>
               <li class="rm pop nav06"><a href="#"><img src="images/menu-05.png" alt="Restaurant レストラン"></a></li>
               <li class="rm pop nav07"><a href="#"><img src="images/menu-06.png" alt="Contact コンタクト"></a></li>
           </ul>
@@ -15,8 +15,8 @@
               <div id="nav01" class="popupNaviChild">
                   <img class="arrow" src="images/popnav/arrow.png" alt="">
                   	<ul class="clearfix">
-                      <li class="clearfix"><a href="#">成立宗旨</a></li>
-                      <li class="clearfix"><a href="#">戀戀團隊</a></li>
+                      <li class="clearfix"><a href="about_setup.php">成立宗旨</a></li>
+                      <li class="clearfix"><a href="team.php">戀戀團隊</a></li>
                       <li class="clearfix"><a href="#">公益回饋</a></li>
                     </ul>
               </div>
@@ -33,6 +33,14 @@
                    </ul>
               </div>
   <!--團體聯誼-->
+                <div id="nav03" class="popupNaviChild">
+                  <img class="arrow" src="images/popnav/arrow.png" alt="">
+                  <ul>
+                      <li class="clearfix"><a href="#">室內聯誼</a></li>
+                      <li class="clearfix"><a href="#">戶外聯誼</a></li>
+                      <li class="clearfix"><a href="#">企業聯誼</a></li>
+                   </ul>
+              </div>
 <!--              <div id="nav03" class="popupNaviChild">
                   <img class="arrow" src="images/popnav/arrow.png" alt="">
                   <div class="popupTitle">
@@ -52,7 +60,7 @@
                   <ul>
                       <li class="clearfix"><a href="#">聯誼花絮</a></li>
                       <li class="clearfix"><a href="#">甜蜜分享</a></li>
-                      <li class="clearfix"><a href="#">戀戀論壇</a></li>
+                      <li class="clearfix"><a href="forum.php">戀戀論壇</a></li>
                       <li class="clearfix"><a href="#">戀戀好康</a></li>
                    </ul>
               </div>
@@ -60,16 +68,16 @@
               <div id="nav06" class="popupNaviChild">
                   <img class="arrow" src="images/popnav/arrow.png" alt="">
                   <ul>
-                      <li class="clearfix"><a href="#">服務項目</a></li>
-                      <li class="clearfix"><a href="#">加入流程</a></li>
-                      <li class="clearfix"><a href="#">網站導覽</a></li>
+                      <li class="clearfix"><a href="service.php">服務項目</a></li>
+                      <li class="clearfix"><a href="join_01.php">加入流程</a></li>
+                      <li class="clearfix"><a href="join_sitemap.php">網站導覽</a></li>
                    </ul>
               </div>
   <!--聯絡我們-->
               <div id="nav07" class="popupNaviChild">
                   <img class="arrow" src="images/popnav/arrow.png" alt="">
                   <ul>
-                      <li class="clearfix"><a href="#">聯絡方式</a></li>
+                      <li class="clearfix"><a href="contact.php">聯絡方式</a></li>
                       <li class="clearfix"><a href="#">常見問答</a></li>
                       <li class="clearfix"><a href="#">留言板</a></li>
                    </ul>
