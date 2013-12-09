@@ -235,10 +235,10 @@
                                 <li id="area-tab-01"><a href="#">台北</a></li>
                                 <li id="area-tab-02"><a href="#">桃園</a></li>
                                 <li id="area-tab-03"><a href="#">新竹</a></li>
-                                <li id="area-tab-04"><a href="#">台中</a></li>
-                                <li id="area-tab-05"><a href="#">嘉義</a></li>
+                                <li id="area-tab-04"><a href="#">台中</a></li>                               
                                 <li id="area-tab-06"><a href="#">台南</a></li>
                                 <li id="area-tab-07"><a href="#">高雄</a></li>
+                                <li id="area-tab-05"><a href="#">其他</a></li>
                             </ul>
                         </div>
                         <div>

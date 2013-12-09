@@ -125,7 +125,7 @@ footer .copyright{ background:url(../images/footer-copyright-bg.gif) repeat-x; w
 
 button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; padding:6px 8px;}
 
-.float-left{float:left;}
+/* .float-left{float:left;} */
 .float-right{float:right;}
 .font-serif{ font-family:Georgia, "Times New Roman", Times, serif;}
 
@@ -217,7 +217,7 @@ button{ border:none; -webkit-border-radius:3px; -moz-border-radius:3px; border-r
 	width: 670px;
 	height: 39px;
 	background: url(../images/pink_header.gif) no-repeat scroll left top;
-	text-align:center;
+	text-align:left;
 }
  #index_album .header h2 {
 	color:#ff3f8e;

@@ -7,9 +7,9 @@
             </div>
             <div class="right-nav">
             	<img src="images/icon-logo-pink.png" width="16" height="16"> 
-                <a href="#">活動花絮 </a> <span>/</span>
-                <a href="#">會員專區 </a> <span>/</span>
-                <a href="#">活動公告 </a>
+                <a href="#">最新公告 </a> <span>/</span>
+                <a href="#">網站導覽 </a> <span>/</span>
+                <a href="#">回首頁 </a>
                 <img src="images/icon-logo-pink.png" width="16" height="16">  
             </div>
-        </div>
+        </div>iv>
