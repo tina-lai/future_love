@@ -4,6 +4,6 @@
                       <input name="" type="text" placeholder="帳號">
                       <input name="" type="text" placeholder="密碼">
                     </form>
-                    <button id="signin" onclick="location.href='member.php'">登入</button>
-                    <button id="register" onclick="location.href='register.php'">加入會員</button>
+                    <button class="btn-purple" onclick="location.href='member.php'">登入</button>
+                    <button class="btn-purple" onclick="location.href='register.php'">加入會員</button>
                 </div>

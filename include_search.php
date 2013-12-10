@@ -1,4 +1,6 @@
+
 <div class="search-member">
+
                 	<div class="gen">性別<select name="">
                 	  <option>女</option>
                 	  <option>男</option>
@@ -15,6 +17,6 @@
                 	  <option>大學</option>
                 	  <option>高中</option>
                 	</select></div>
-                    <button id="search">搜尋</button>
-                    <button id="adv-search" onclick="location.href='advance_search.php'">進階搜尋</button>
-                </div>
+                    <button class="btn-pink" id="search">搜尋</button>
+                    <button class="btn-pink" id="adv-search" onclick="location.href='advance_search.php'">進階搜尋</button>
+                </div>             

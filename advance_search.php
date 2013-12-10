@@ -73,7 +73,7 @@
             <div id="right-col">
             	<!--跑馬燈引入-->
             	<? include("include_Message.php"); ?>
-                
+              <div class="page-content">
                 <h2 class="heading-pink">
                 	進階搜尋
                     <div class="breadcrumb">首頁 > 進階搜尋</div>
@@ -81,16 +81,15 @@
                 <div class="heading-dashline"></div>
                 
                 <div class="top-selection clearfix">
-                	   <div class="selection-category">分類 ｜</div>
-                          <ul class="clearfix">
-                    	     <li><a href="online-common.php">一般搜尋</a></li>
-                             <li><a href="advance_search.php">進階搜尋</a></li>
-                          </ul>
-                       </div>
-                    </div>
+              	   <div class="selection-category">分類 ｜</div>
+                    <ul class="clearfix">
+              	     <li><a href="online-common.php">一般搜尋</a></li>
+                       <li><a href="advance_search.php">進階搜尋</a></li>
+                    </ul>
+                 </div>
                 <div class="dashline"></div>   
                 
-                <div class="page-content">
+                
                     <h3>>> 搜尋條件</h3>
 
                     <table class="table01" width="100%" cellspacing="2" cellpadding="2">
@@ -165,7 +164,9 @@
                       <button class="btn-purple">清除重設</button>
                       <button class="btn-purple" onclick="location.href='online-list.php'">開始搜尋</button>
                   </div>
+
                 </div>
+                <!-- end page content-->
                             
             </div><!-- end 右邊欄位 right col-->
         </div>

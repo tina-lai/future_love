@@ -46,7 +46,7 @@ nav{width:100%; height:63px; }
 #left-col .login .forgot-pw{font-size:12px; float:right; margin:15px 20px 10px 0;}
 #left-col .login form{ margin:0 auto; width:200px;}
 #left-col .login form input{width:190px; padding:5px; margin:3px 0;-webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px; border:1px solid #ccc; font-size:12px; color:#666;}
-#left-col .login button{background:#975aa9; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px;}
+#left-col .login button{font-size:12px; letter-spacing:0.1em; width:80px;}
 #left-col .login button#signin{margin: 5px 32px 0 20px;}
 
 #left-col .search-member{ background:url(../images/search-member-bg.jpg) no-repeat; width:238px; height:145px;float:left; margin-top:15px; position:relative; color:#555; font-size:12px;}
@@ -55,7 +55,7 @@ nav{width:100%; height:63px; }
 #left-col .search-member .age{position:absolute; top: 40px; left: 125px;}
 #left-col .search-member .edu{position:absolute; top: 70px; left: 125px;}
 #left-col .search-member select{margin-left:5px; }
-#left-col .search-member button{background:#ff69a7; color:#fff; font-size:12px; letter-spacing:0.1em; width:80px;}
+#left-col .search-member button{font-size:12px; letter-spacing:0.1em; width:80px;}
 #left-col .search-member button#search{margin: 105px 32px 0 20px;}
 #left-col .video{ float:left; width:232px; margin-top:15px; text-align:center; padding-left:4px;}
 #left-col .facebook{ margin-top:15px;}
@@ -314,10 +314,10 @@ table.table-details td{padding:5px; vertical-align:text-top; line-height:1.5em;}
 table.table-details td button{margin-top:10px;}
 table.table01{ border-spacing:3px; border-collapse:separate;width:665px;} 
 table.table01 td{padding: 10px;}
-table td.bg-purple{background-color:#f5e7f9; color:#000; }
-table td.bg-blue{background-color:#f3f7fd; color:#000;}
-table td.bg-pink{background-color:#fce6ed; color:#000;}
-table td.color-orange{color:#ec8400;}
+.bg-purple{background-color:#f5e7f9; color:#000; }
+.bg-blue{background-color:#f3f7fd; color:#000;}
+.bg-pink{background-color:#fce6ed; color:#000;}
+.color-orange{color:#ec8400;}
 
 .benefit{color:#999;}
 .benefit h3{margin:0;}
@@ -347,21 +347,41 @@ table td.color-orange{color:#ec8400;}
 }
 
 table.table-style-1{ background:url(../images/heading-pink.gif) no-repeat; padding-top:5px; position:relative; margin:15px 0;}
-table.table-style-1 thead{padding:5px 0; height:40px; text-align: center; margin-bottom:20px;}
-table.table-style-1 thead td{  height:25px;padding-top:5px; margin-top:5px;}
+table.table-style-1 thead{text-align: center;}
+table.table-style-1 thead td{  height:40px;}
 table.table-style-1 tbody{margin-top:10px; color:#999;}
 table.table-style-1 tbody tr:hover{background-color:#f3f7fd;}
-table.table-style-1 tbody td .dashline{margin:3px 0;}
+table.table-style-1 tbody td .dashline{margin:3px 0; padding:0;}
 table.table-style-1 tbody tr.tr-item td{padding-left: 10px;}
 table.table-style-1 tbody td a{padding-left:20px;}
 table.table-style-1 tbody td a:hover{text-decoration: none;}
-span.right-line{border-right:1px solid #ccc; width:1px; float:right; height:20px;}
+span.right-line{border-right:1px solid #ccc; width:1px; float:right; height:13px;}
 table.table-style-1 tr.tr-item{height: 70px; line-height:1.5em;}
 table.table-style-1 tr.tr-item .font-purple{line-height:1.5em;}
 
 .css-table-1 { display:table; }
 .css-table-1 .css_tr {display: table-row;}
-.css-table-1 .css_td {display: table-cell;}
+.css-table-1 .css_tr.heading .css_td{background-color:#f3f7fd; text-align: center;}
+.css-table-1 .css_td { display: table-cell; border: 1px solid #fff; background: #999; padding: 6px;}
+.css-table-1 .col_1{width: 100px; background-color:#f3f7fd; font-weight:bold; text-align: right;}
+.css-table-1 .col_2{width: 250px; background-color:#f5e7f9;}
+.css-table-1 .col_3{width: 250px; background-color:#fce6ed; }
+.css-table-1 .col_span2{width:200px; display: table-cell; }
+
+.css-table-2 { display:table; }
+.css-table-2 .css_tr {display: table-row;}
+.css-table-2 .css_tr.heading .css_td{background-color:#f3f7fd;}
+.css-table-2 .css_td { display: table-cell; border: 1px solid #fff; background: #999; padding: 6px;}
+.css-table-2 .col_1{width: 160px; background-color:#f5e7f9; text-align: right;}
+.css-table-2 .col_2{background-color:#f3f7fd;}
+.css-table-2 .css_td.bg-pink{background-color:#fce6ed;}
+
+.css-table-3 { display:table; }
+.css-table-3 .css_tr {display: table-row;}
+.css-table-3 .css_tr.heading .css_td{background-color:#f3f7fd;}
+.css-table-3 .css_td { display: table-cell; border: 1px solid #fff; padding: 6px;}
+.css-table-3 .col_1{width: 70px;}
+.css-table-3 .col_2{color: #ec8400;}
 
 .forum .post-title{background:url(../images/heading-pink.gif) no-repeat; width:665px; height:35px; color:#666; font-size:14px; line-height:37px; text-align:center; margin:15px 0 5px;}
 .forum .post-info{width:665px; position:relative; float:left;}

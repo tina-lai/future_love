@@ -76,40 +76,40 @@
                 <div class="meeting-info clearfix">
                 	<div class="image"><img src="images/meeting.jpg" width="321" height="239"></div>
                     <div class="details">
-                    	<table class="table-details" width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tr>
-                            <td width="100">‧ 聯誼日期：</td>
-                            <td class="color-orange">2013/12/14(六)</td>
-                          </tr>
-                          <tr>
-                            <td>‧ 時        間：</td>
-                            <td class="color-orange">12:00~15:30</td>
-                          </tr>
-                          <tr>
-                            <td>‧ 報到時間：</td>
-                            <td class="color-orange">2013/12/14(六)</td>
-                          </tr>
-                          <tr>
-                            <td>‧ 男女人數：</td>
-                            <td class="color-orange">12 vs 12 ( 預計 ) - 後補各 1位</td>
-                          </tr>
-                          <tr>
-                            <td>‧ 活動地點：</td>
-                            <td class="color-orange">書香怡園 ( 原：書香名門 ) <a href="#">店家資訊</a></td>
-                          </tr>
-                          <tr>
-                            <td>‧ 活動地址：</td>
-                            <td class="color-orange">北市中正區博愛路9號2樓-捷運西門站5號
-                        出口步行約10分鐘</td>
-                          </tr>
-                          <tr>
-                          	<td></td>
-                            <td>
+                    	<div class="css-table-3">
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 聯誼日期：</div>
+                            <div class="css_td col_2">2013/12/14(六)</div>
+                          </div>
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 時        間：</div>
+                            <div class="css_td col_2">12:00~15:30</div>
+                          </div>
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 報到時間：</div>
+                            <div class="css_td col_2">2013/12/14(六)</div>
+                          </div>
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 男女人數：</div>
+                            <div class="css_td col_2">12 vs 12 ( 預計 ) - 後補各 1位</div>
+                          </div>
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 活動地點：</div>
+                            <div class="css_td col_2">書香怡園 ( 原：書香名門 ) <a href="#">店家資訊</a></div>
+                          </div>
+                          <div class="css_tr">
+                            <div class="css_td col_1">‧ 活動地址：</div>
+                            <div class="css_td col_2">北市中正區博愛路9號2樓-捷運西門站5號
+                        出口步行約10分鐘</div>
+                          </div>
+                          <div class="css_tr">
+                          	<div class="css_td col_1"></div>
+                            <div class="css_td col_2">
                             	<button class="btn-purple">地圖</button>
                             	<button class="btn-purple">我要報名</button>
-                            </td>
-                          </tr>
-                        </table>
+                            </div>
+                          </div>
+                        </div>
 
                     </div>
                 </div>
@@ -121,29 +121,29 @@
                   <img src="images/icon-heart.png" width="15" height="14">專屬一對一，約會我和你(妳)  <img src="images/icon-heart.png" width="15" height="14"></h2>
                   <div class="dashline"></div>
                     
-                    <table class="table01" width="100%" cellspacing="2" cellpadding="2">
-                      <tr>
-                        <td width="150" class="bg-purple text-right">約會時間：</td>
-                        <td class="bg-blue">2013.12.14(六)  12:00～15:30</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">幸福報到：</td>
-                        <td class="bg-blue">11:30</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">預計人數：</td>
-                        <td class="bg-blue">男仕12 vs 女仕12-後補男女各1位--婚姻限定首次--</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">幸福邀約：</td>
-                        <td class="bg-blue"><span class="font-bright-pink">★淑女:大學畢、優雅清秀、內外兼具、公教國營優質女仕  (另有同行優惠-詳見特
+                    <div class="css-table-2" style="width:665px">
+                      <div class="css_tr">
+                        <div class="css_td col_1">約會時間：</div>
+                        <div class="css_td col_2">2013.12.14(六)  12:00～15:30</div>
+                      </div>
+                      <div class="css_tr">
+                        <div class="css_td col_1">幸福報到：</div>
+                        <div class="css_td col_2">11:30</div>
+                      </div>
+                      <div class="css_tr">
+                        <div class="css_td col_1">預計人數：</div>
+                        <div class="css_td col_2">男仕12 vs 女仕12-後補男女各1位--婚姻限定首次--</div>
+                      </div>
+                      <div class="css_tr">
+                        <div class="css_td col_1">幸福邀約：</div>
+                        <div class="css_td col_2"><span class="font-bright-pink">★淑女:大學畢、優雅清秀、內外兼具、公教國營優質女仕  (另有同行優惠-詳見特
    別優惠)</span><br>
 <span class="font-blue">★紳士:各界社會菁英，國營公教、碩博菁英、科技新貴、自營商、百大
-   上市櫃公司或年收入達80萬 以上之優質男仕尤佳</span></td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">一對一約會特色：</td>
-                        <td class="bg-pink">限定版-7分鐘Speed Dating 1對1聯誼，完全屬於您的約會，不讓別人專美於前！
+   上市櫃公司或年收入達80萬 以上之優質男仕尤佳</span></div>
+                      </div>
+                      <div class="css_tr">
+                        <div class="css_td col_1">一對一約會特色：</div>
+                        <div class="css_td col_2 bg-pink">限定版-7分鐘Speed Dating 1對1聯誼，完全屬於您的約會，不讓別人專美於前！
 不管你害羞、不善表達，可獨自與對方交談的好機會，是你最讚的選擇！
 本場次將年紀縮小範圍，讓您更易找到相同話題對象！
 
@@ -158,19 +158,19 @@
 ￭ 14:00→ 自由交流時間
 ￭ 14:10→一對一約會時間
 ￭ 15:30→珍重再見
-</td>
-                      </tr>
-                      <tr>
-                        <td class="bg-purple text-right">提醒事項：</td>
-                        <td class="bg-blue">一、請詳閱每場<其他注意事項>，以維護您的權益及當日需帶之資料、本站規定
+</div>
+                      </div>
+                      <div class="css_tr">
+                        <div class="css_td col_1">提醒事項：</div>
+                        <div class="css_td col_2">一、請詳閱每場<其他注意事項>，以維護您的權益及當日需帶之資料、本站規定
 二、機會是留給準備好的人，事先擬定話題交友更順利
 三、現場提供炒飯、炒麵、現炒熱食、沙拉吧、冰熱飲品、當季新鮮水果..等餐飲
 四、初次見面第一印象最重要，正式禮儀社交；男仕請著(有領)襯杉、POLO杉，         女仕請著裙裝或包鞋，乾淨、雅觀。＊嚴禁短褲、露趾涼鞋＊
 五、已參加過10/27(日)台北Speed dating 的單身同學們，本場將列入「備取」       哦！
 六、報名後須3日內繳費，超過時間恕無法保留，倒數名額採匯款優先正取。
-</td>
-                      </tr>
-                    </table>
+</div>
+                      </div>
+                    </div>
                                         
 				  <div class="dashline" style="margin:10px 0;" ></div>
                     
