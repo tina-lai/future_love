@@ -33,7 +33,11 @@
 <link media="screen" rel="stylesheet" type="text/css" href="css/banner_slider.css" />
 <script type="text/javascript" src="js/banner_slider.js"></script>
 <!--banner_end-->    
-   
+ <SCRIPT language="JavaScript">
+function movepic(img_name,img_src) {
+document.getElementById(img_name).src=img_src;
+}
+</SCRIPT>  
   </head>
 
 <body>
@@ -44,7 +48,7 @@
 	
     <section class="wrapper clearfix">
     	
-        <div class="since"><img src="images/since.png"></div>
+        <div class="since"><img src="images/since.png" ></div>
         
         <!-- 右方搜尋-->
 		 <?php include("include_right_search.php");?>
@@ -74,11 +78,19 @@
                 <div class="heading-dashline"></div>
                 
                 <div class="meeting-info clearfix">
-                	<div class="image"><img src="images/meeting.jpg" width="321" height="239"></div>
+                	<div class="image">
+                    <img src="images/meeting.jpg" width="321" height="239" id="main_photo">
+                    <div>
+                       <a onclick="movepic('main_photo','images/meeting.jpg')"><img src="images/meeting.jpg" width="107" height="79" ></a>
+                       <a onclick="movepic('main_photo','images/meeting_02.jpg')"><img src="images/meeting_02.jpg" width="107" height="79" ></a>
+                       <a onclick="movepic('main_photo','images/meeting_03.jpg')"><img src="images/meeting_03.jpg" width="107" height="79" ></a>
+                    </div>
+                    </div>
+                    
                     <div class="details">
                     	<div class="css-table-3">
                           <div class="css_tr">
-                            <div class="css_td col_1">‧ 聯誼日期：</div>
+                            <div class="css_td col_1" style="width:80px;">‧ 聯誼日期：</div>
                             <div class="css_td col_2">2013/12/14(六)</div>
                           </div>
                           <div class="css_tr">
